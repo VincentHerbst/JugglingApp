@@ -1,0 +1,44 @@
+ToDo (future):
+    
+-- Research -- Erklärung Trick / Konzepte / ... + Nutzer Hinweise
+## ++ (mathematische Erklärung --> in Zahlen !) ++ Simulation  ##
+
+
+App:
+1.) 
+APP -> Python Django, Java    (--> eher Java)
+SPRACHE  -> Englisch (später vielleicht auch andere)
+2.) Ziele
+viele Zielgruppen ansprechen (3 Bälle - "blutig")
+...
+3.) mögliche Features:
+    + Kauf (...)
+    
+    JonglierArten:
+     - viele Jonglieren vs Kunstjonglieren
+        
+    + Anreiz ( Video?, Mit Namen --> direkt zum Trick )
+    
+    + Erklärung neben Fortschritt (Schritt 1, Schritt 2 ... ) ---> Zwischenschritte auswählbar // andere Erklärung .. 
+     
+    + Challenges (Levels) - ! - (Jonglieren Lernen)
+    -> Schwierigkeitsgrad (nutzerbasiert)
+-> Zahl --> einfach  (++)
+-> "Voraussetzungen" 
+-> (avg. Lernzeit) 
+
+-Start- Button
+"Vertrauen"
+-I got it- Button
+    
+    
+    
+Struktur der App:
+    ( MOTIVATIONSHINWEISE beim Einschalten der App )
+    Home (Videos)
+    -  Üben (kreative Übungen) --> Basics
+    -  Register (Alle Tricks) 
+    -  Progress 
+    (-  Blog)
+
+    
