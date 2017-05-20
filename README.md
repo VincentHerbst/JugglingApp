@@ -5,3 +5,7 @@
 --> website oder app
 2. was für ein Umfang?
 --> Struktur (was soll es können)
+
+
+
+editing -> pull request -> merging into master branch
