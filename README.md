@@ -14,3 +14,4 @@ editing -> pull request -> merging into master branch
 
 
 
+Python stinkt!
