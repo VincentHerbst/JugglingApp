@@ -1,0 +1,78 @@
+#:import FadeTransition kivy.uix.screenmanager.FadeTransition
+
+ScreenManagement:
+    transition: FadeTransition()
+    MainScreen:
+    Tricks:
+    Progress:
+    Materials:
+    Blog:
+	
+<CustButton@Button>:
+    color: 0, 1, 0, 1
+    font_size: 40/700*root.width
+    size_hint: 1, 1/4
+    
+
+<MainScreen>:
+    name: 'main'
+    FloatLayout:
+        CustButton:
+            pos_hint: {"center_x" : 0.5, "top" : 1}
+            on_press: app.root.current = 'Tricks'
+            text: 'Tricks'
+
+        CustButton:
+            pos_hint: {"center_x" : 0.5 , "y" : (root.height-2*self.height)/root.height}
+            on_press: app.root.current = 'Progress'
+            text: 'Progress'
+
+        CustButton:
+            pos_hint: {"center_x" : 0.5 , "y" : (root.height-3*self.height)/root.height}
+            on_press: app.root.current = 'Materials'
+            text: 'Materials'
+        CustButton:
+            pos_hint: {"center_x" : 0.5 , "y" : (root.height-4*self.height)/root.height}
+            on_press: app.root.current = 'Blog'
+            text: '(Blog)'
+
+
+            
+            
+<Tricks>:
+    name: 'Tricks'
+    FloatLayout:
+        CustButton:
+            size_hint: 1, 1/8
+            text: 'Back Home'
+            pos_hint: {"right" :  1, "top" : 1}
+            on_press: app.root.current = 'main'
+
+
+<Progress>:
+    name: 'Progress'
+    FloatLayout:
+        CustButton:
+            size_hint: 1, 1/8
+            text: 'Back Home'
+            pos_hint: {"right" :  1, "top" : 1}
+            on_press: app.root.current = 'main'
+        
+<Materials>:
+    name: 'Materials'
+    FloatLayout:
+        CustButton:
+            size_hint: 1, 1/8
+            text: 'Back Home'
+            pos_hint: {"right" :  1, "top" : 1}
+            on_press: app.root.current = 'main'
+
+<Blog>:
+    name: 'Blog'
+    FloatLayout:
+        CustButton:
+            size_hint: 1, 1/8
+            text: 'Back Home'
+            pos_hint: {"right" :  1, "top" : 1}
+            on_press: app.root.current = 'main'            
+        
