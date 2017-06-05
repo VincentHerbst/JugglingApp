@@ -1,0 +1,12 @@
+ball_count;trick_name;trick_difficulty;tricks_needed;tricks_similar;animation data;;description
+3;Cascade;2;none;Juggler's Tennis, Reverse Cascade;;;The Three Ball Cascade is the most basic juggling pattern, and the first trick any would-be juggler should learn. The Cascade is generally considered to be the easiest pattern, and forms the backbone of many other tricks.ÿ
+3;Fake Columns;2;Two in one;;;;The Fake Columns is a variation of Columns (or more accurately the Two-in-one) in which one outer ball is moved by hand along the same horizontal level as the other. This creates a very cool effect, especially when used inside a normal Columns pattern.
+3;Yo-Yo;2;Fake Columns;Yo-Yo;;;"The Yo-Yo is a variation of Fake Columns in which the ""faked"" ball is moved on top of the center ball, as if they were attached by a string (hence the name). Like Fake Columns, the Yo-Yo is a favorite among younger audiences, and is in fact very easy to juggle."
+3;Oy-Oy;2;Yo-Yo;Yo-Yo;;;The Oy-Oy is variation of the Yo-Yo in which an outside ball is carried underneath, instead of above, the center ball. The Oy-Oy is slightly more difficult than the Yo-Yo, however once you have learned the latter this trick should not give you any problems.
+3;Juggler's Tennis;2;Cascade;Half-Shower;;;ÿJuggler's Tennis is the second trick most jugglers attempt after having learned the Three Ball Cascade. It gets its name from the one ball that travels back and forth over the others, resembling a tennis match. Overall, Juggler's Tennis is an easy trick, only marginally harder than the Cascade.
+3;423;2;;;;;
+3;The W;;;;;;
+3;;;;;;;
+3;;;;;;;
+4;Cascade;5;;;;;
+4;Shower;6;;;;;
